@@ -1,0 +1,11 @@
+{
+  "name": "qotd-toolkit-marketplace",
+  "owner": { "name": "Softtech Trainer" },
+  "plugins": [
+    {
+      "name": "qotd-toolkit",
+      "source": { "source": "local", "path": "." },
+      "description": "House-style agents, skills, and hooks for Hono/TS/SQLite projects."
+    }
+  ]
+}

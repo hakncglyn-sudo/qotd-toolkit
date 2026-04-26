@@ -1,0 +1,6 @@
+{
+  "name": "qotd-toolkit",
+  "description": "House-style agents, skills, and hooks from the QOTD training scenario — Hono/TypeScript/SQLite conventions plus an architect, backend-dev, frontend-dev, tester, and security-auditor roster.",
+  "version": "0.1.0",
+  "author": { "name": "Softtech Trainer" }
+}
