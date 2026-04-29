@@ -1,11 +1,11 @@
 {
   "name": "qotd-toolkit-marketplace",
-  "owner": { "name": "Softtech Trainer" },
+  "owner": { "name": "Hakan Çağlayan" },
   "plugins": [
     {
       "name": "qotd-toolkit",
       "source": { "source": "local", "path": "." },
-      "description": "House-style agents, skills, and hooks for Hono/TS/SQLite projects."
+      "description": "House-style agents, skills, and hooks for Hono/TS/SQLite projects (and stack-agnostic governance bits)."
     }
   ]
 }
