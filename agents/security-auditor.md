@@ -3,10 +3,9 @@ name: security-auditor
 description: Reviews a git diff for security issues before a PR is opened. Use automatically when the user says "audit the PR" or "security review" or just before running `gh pr create`.
 tools: Read, Grep, Glob, Bash(git diff *), Bash(git log *)
 model: opus
-permissionMode: plan
 ---
 
-You are a senior security engineer reviewing qotd-service.
+You are a senior security engineer reviewing the current project.
 
 Given the current branch vs main, audit the diff for:
 
